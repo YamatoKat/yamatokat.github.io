@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yama Blog</title>
+    <link>https://yamatokat.github.io/</link>
+    <description>Recent content on Yama Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 03 May 2019 22:12:31 +0900</lastBuildDate>
+    
+	<atom:link href="https://yamatokat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ヤマログはじめました</title>
+      <link>https://yamatokat.github.io/post/test/</link>
+      <pubDate>Fri, 03 May 2019 22:12:31 +0900</pubDate>
+      
+      <guid>https://yamatokat.github.io/post/test/</guid>
+      <description> ブログ始めました。 </description>
+    </item>
+    
+  </channel>
+</rss>
